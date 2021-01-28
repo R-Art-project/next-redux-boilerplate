@@ -1,11 +1,21 @@
-<<<<<<< HEAD
-# Easy-portfolio
+# Next-Redux Boilerplate
+
+This is a new project configuration with Next, React, Redux and Styled Components
 
 ## How to start
 
-1. Clone the project
-2. Install dependencies. `npm install`.
-3. To run the dev server write the command `npm run dev`.
-=======
-# next-redux-boilerplate
->>>>>>> 840b380658e61e9bb5797cbb3b50240103270be9
+Clone the repo:
+
+`git clone git@github.com:jose-garzon/next-redux-boilerplate.git`
+
+Install dependencies:
+
+`npm install`
+
+Start the dev server:
+
+`npm start`
+
+To build the production version:
+
+`npm run build`
